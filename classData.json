@@ -1,0 +1,35 @@
+ [
+        		{
+		            "price" : "4928.00-6799.00",
+		            "price1" : "5199.00-6799.00",
+		            "name" : "Apple Iphone 7 移动联通电信4G手机",
+		            "productId" : "1056",
+		            "imgSrc1": "http://www.yngmall.com/upload/2016/12/29/20161229161222387.jpg",
+		        		"imgSrc2":	"http://www.yngmall.com/upload/2016/12/29/20161229161156112.jpg"
+		        },
+		        {
+		            "price" : "68.00",
+		            "chandi" : "美国",
+		            "guige" : "4盒",
+		            "danzhong" : "每盒约400g",
+		            "chucang" : "冷藏、保持干燥",
+		            "yingyang" : "VC、蛋白质",
+		            "name": "苹果",
+		            "productId" : "1057",
+		            "imgSrc": "http://img01.bqstatic.com/upload/goods/201/601/2109/20160121090716_775172.jpg@355w_355h_90Q"
+		        },
+		        {
+		            "price" : "45.00",
+		            "chandi" : "墨西哥",
+		            "guige" : "3斤",
+		            "danzhong" : "300g",
+		            "chucang" : "保持干燥",
+		            "yingyang" : "vc、vd、ve",
+		            "name": "杏子",
+		            "productId" : "1058",
+		            "imgSrc": "http://img01.bqstatic.com/upload/goods/201/606/0913/20160609132808_485696.jpg@355w_355h_90Q"
+		        }
+		     
+		        
+        	]
+       

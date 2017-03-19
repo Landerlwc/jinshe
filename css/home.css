@@ -1,0 +1,285 @@
+		
+		body{
+				margin: 0;
+				padding: 0;
+				
+			}
+			p{
+				margin: 0;
+				}
+			ul{
+					margin: 0;
+					padding: 0;
+				}
+			a{
+				text-decoration: none;
+			}
+			#home{
+				background:gainsboro;
+			}
+			.home_header{
+				width: 10rem;
+				background: white;
+			}
+			.home_app{
+				width: 8.28rem;	
+				height: 1.5625rem;
+				background: #000;
+				background-image: url(../img/top-app.png);
+				background-repeat: no-repeat;
+				background-size: 1.25rem;
+				background-position: 0.15625rem;
+				opacity: 0.7;
+				padding-left: 1.72rem;
+				z-index: 5;
+			}
+			.home_app_font{
+				color: white;
+				height: 1.5625rem;
+				width: 5.5rem;
+				line-height: 1.5625rem;
+				display: inline-block;
+			}
+			.home_app_but{
+				width: 2.685rem;
+				height: 1.5625rem;
+				background:red;
+				color:white;
+				font-size: 14px;
+				border: 0;
+				display: inline-block;
+				padding: 0;
+				vertical-align: top;
+			}
+			.home_swiper{
+				width: 100%;
+				height: 5.625rem;
+			}
+			.home_swiper_img{
+				height: 5.625rem;
+			}
+			/*搜索栏*/
+			.home_header{
+				padding-left: 1.2rem;
+				background-image: url(../img/下载.png);
+				background-size: 0.7rem;
+				background-repeat: no-repeat;
+				background-position: 0.35rem;
+				position: fixed;
+			}
+			
+			.home_head_sousuolan{
+				width: 8rem;
+				height: 0.875rem;
+				
+			}
+			.home_nav{
+				height:4.44rem ;
+				margin-bottom: 0.218rem;
+			}
+			.home_nav_ul{
+				margin: 0;
+				padding: 0;
+			}
+			.home_nav_ul li{
+				list-style: none;
+				float: left;
+				width: 20%;
+				height: 2.22rem;
+				/*background: red;*/
+			}
+			.home_nav_li1,.home_nav_li2,.home_nav_li3,.home_nav_li4,.home_nav_li5,.home_nav_li6,.home_nav_li7
+			,.home_nav_li8,.home_nav_li9,.home_nav_li10{
+				background-size: 2rem;
+				background-repeat: no-repeat;
+				background-color: white;
+			}
+			.home_nav_li1{
+				background-image: url(../img/fenlei.png);
+			}
+			.home_nav_li2{
+				background-image: url(../img/xinrenzhinan.png);
+			}
+			.home_nav_li3{
+				background-image: url(../img/chongzhi.png);
+			}
+			.home_nav_li4{
+				background-image: url(../img/yaoyiyao.png);
+			}
+			.home_nav_li5{
+				background-image: url(../img/sifangqian.png);
+			}
+			.home_nav_li6{
+				background-image: url(../img/younipintuan.png);
+			}
+			.home_nav_li7{
+				background-image: url(../img/qianghongbao.png);
+			}
+			.home_nav_li8{
+				background-image: url(../img/shangjinrenwu.png);
+			}
+			.home_nav_li9{
+				background-image: url(../img/yaoqinghuoban.png);
+			}
+			.home_nav_li10{
+				background-image: url(../img/fenxiangzhuan.png);
+			}
+			
+			.home_buy{
+				width: 10rem;
+				height: 1.3rem;
+				background-image: url(../img/buy.jpg);
+				background-repeat: no-repeat;
+				background-size: 10rem 1.3rem;
+				clear: both;
+			}
+			.home_buy_wrap{
+				height: 10rem;
+			}
+			.home_buy_ul{
+				list-style: none;
+				
+			}
+			
+			.home_buy_li1,.home_buy_li2,.home_buy_li3,.home_buy_li4,.home_buy_li5
+			,.home_buy_li6,.home_buy_li7,.home_buy_li8,.home_buy_li9,.home_buy_li10
+			,.home_buy_li11,.home_buy_li12,.home_buy_li13{
+				float: left;
+				
+			}
+			
+			.home_buy_lipic1{
+				width: 5rem;
+				height: 5.5635rem;
+				vertical-align: top;
+			}
+			
+			.home_buy_lipic2{
+				width: 5rem;
+				height: 2.78175rem;
+				vertical-align: top;
+			}
+			.homg_buy_lipic3{
+				width: 2.5rem;
+				height: 2.78175rem;
+				vertical-align: top;
+				
+			}
+			.home_buy_lipic4{
+				width: 2.5rem;
+				height:  2.78175rem;
+				vertical-align: top;
+				
+			}
+			.home_buy_lipic5,.home_buy_lipic6,.home_buy_lipic7{
+				width: 3.3333rem;
+				height: 3.28rem;	
+				vertical-align: top;
+			}
+		
+			/*四个*/
+			.home_buy_lipic8,.home_buy_lipic9,.home_buy_lipic10,.home_buy_lipic11{
+				width: 2.5rem;
+				height: 3.3125rem;
+				vertical-align: top;
+			}
+			
+			.home_buy_lipic12,.home_buy_lipic13{
+				width: 5rem;
+				height: 2.44rem;
+				vertical-align: top;
+			}
+			/*主题街*/
+			.home_zhutijie_wrap{
+				
+			}
+			.home_zhutijie{
+				width: 10rem;
+				height: 1.3125rem;	
+				clear: both;
+			}
+			.home_zhutijiepic{
+				width: 10rem;
+				height: 1.3125rem;
+			}
+			.home_zhutijie_ul{
+				list-style: none;
+			}
+			.home_zhutijie_li1,.home_zhutijie_li2{
+				float: left;
+				
+			}
+			.home_zhutijie_lipic1{
+				width: 10rem;
+				height: 3.718rem;
+			}
+			.home_zhutijie_lipic2,.home_zhutijie_lipic3{
+				width: 4.9rem;
+				height: 3.656rem;
+			}
+			.home_zhutijie_li3{
+				float: right;
+			}
+			.home_zhutijie_li4{
+				height: 6.3125rem;
+				float: left;
+			}
+			.home_zhutijie_lipic4{
+				height: 1.3125rem;
+				vertical-align: top;
+			}
+			.home_zhutijie_lipic4_1{
+				width: 10rem;
+				height: 5rem;		
+			}
+			.home_footer{
+				width: 10rem;
+				height: 2rem;
+				clear: both;
+				background: ghostwhite;	
+				position: fixed;
+				bottom: 0;
+				left: 0;
+			}
+			.home_footer_ul{
+				list-style: none;
+			}
+			.home_footer_home,.home_footer_guangchang,.home_footer_market,.home_footer_mine{
+				width: 2.5rem;
+				height: 1.2075rem;
+				float: left;
+				text-align: center;
+				line-height: 3rem;
+			}
+			.home_footer_home{
+				background-image: url(../img/home.png);
+				background-repeat: no-repeat;
+				background-size:1.5rem ;
+				background-position: 0.5rem 0.2rem;	
+			}
+			.home_footer_guangchang{
+				background-image: url(../img/guangchang.png);
+				background-repeat: no-repeat;
+				background-size:1.5rem ;
+				background-position: 0.5rem 0.2rem;	
+			}
+			.home_footer_market{
+				background-image: url(../img/market.png);
+				background-repeat: no-repeat;
+				background-size:1.5rem ;
+				background-position: 0.5rem 0.2rem;	
+			}
+			.home_footer_mine{
+				background-image: url(../img/mine.png);
+				background-repeat: no-repeat;
+				background-size:1.5rem ;
+				background-position: 0.5rem 0.2rem;	
+			}
+			.home_footer_ul a{
+				display: block;
+			}
+			.home_down{
+				width: 10rem;
+				height: 2rem;
+				clear: both;
+			}

@@ -1,0 +1,42 @@
+#cart{
+	background-color: gainsboro;
+	height: 12rem;
+}
+#cart .header{
+	width: 10rem;
+	height: 1.3125rem;
+	text-align: center;
+	line-height: 1.3125rem;
+	color: #000;
+	background-color: white;
+	font-size: 16px;
+	
+}
+#cart .buycar{
+	width: 6.25rem;
+	height: 8.75rem;
+	padding: 0rem 1.875rem ;
+	background: url(../img/gouwuche.png) no-repeat ;
+	background-size: 6rem 6.5rem;
+	background-position: 1.8rem;
+}
+#cart .buycar_p{
+	height: 0.8rem;
+	font-size: 14px;
+	text-align: center;
+	line-height: 0.8rem;
+	padding-top: 7.5rem;
+}
+#cart .buyhome{
+	width: 6.25rem;
+	height: 1rem;
+	background: red;
+	display: block;
+	font-size: 16px;
+	text-align: center;
+	line-height: 1rem;
+	color: white;
+	border-radius: 0.2rem;
+	
+}
+

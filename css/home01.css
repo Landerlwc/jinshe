@@ -1,0 +1,139 @@
+	#home01	.swiper-container{
+			width: 10rem;
+			height: 10rem;
+		}
+	#home01{
+		background: gainsboro;
+	}
+	#home01 .swiper-wrapper img{
+				width: 100%;
+				height: 10rem;
+			}
+			
+	#home01 .swiper-slide{
+				font-size: 30px;
+				line-height: 10rem;
+				text-align: center;
+			}
+	#home01 h3{
+		margin: 0;
+		padding: 0;
+	}
+			
+	#home01 .head_title{
+		width: 10rem;
+		height: 1.2rem;
+		padding: 0.2rem ;
+		margin-bottom: 0.2rem;
+		background: white;
+	}
+	#home01 .title_name{
+		line-height: 1.2rem;	
+		font-weight: bold;
+		font-size: 16px;
+		background: white;
+	}
+	#home01 .head_money{
+		width: 10rem;
+		height: 1.5rem;
+		padding: 0.25rem;
+		background: white;
+		margin-bottom: 0.2rem;
+	}
+	#home01 .head_money_now{
+		font-size: 20px;
+		color: orangered;	
+	}
+	#home01 .head_money_old{
+		height: 0.7rem;
+		line-height: 0.7rem;
+		text-decoration: line-through;
+		font-size: 12px;
+		color: gray;
+	}
+	#home01 .xiangqing{
+		height: 0.8rem;
+		padding: 0.2rem;
+		color: grey;
+		background: azure;
+		
+	}
+	#home01 .zhengpin,.baoxiu,.qitian{
+		height: 0.8rem;
+		line-height: 0.8rem;
+		background: url(../img/duihao.png) no-repeat;
+		background-size:0.5rem ;
+		background-position: 0rem 0.1rem;
+		padding-left:0.6rem ;
+		float: left;
+		margin-left: 0.2rem;
+	}
+	#home01 .nav{
+		height: 1rem;
+		background: white;
+		padding: 0.2rem 0;
+	}
+	#home01 .nav_ul{
+		list-style: none;
+	}
+	#home01 .nav_li{
+		width: 5rem;
+		line-height: 1rem;
+		text-align: center;
+		float:left;
+		font-size: 16px;
+	}
+	#home01 .content_1 {
+		width: 10rem;
+		/*height: 2.88rem;*/
+	}
+	#home01 .content_1_image1{
+		width: 10rem;
+		height: 2.88rem;
+	}
+	#home01 .content_1_image2{
+		width: 10rem;
+		
+	}
+	#home01 .down{ 
+		width: 10rem;
+		height:2rem;
+		clear: both;
+	}
+	#home01 .down_buy{
+		width: 10rem;
+		height: 1.5625rem;
+		background: gainsboro;
+		position: fixed;
+		left: 0;
+		bottom:0 ;
+	}
+	#home01 .down_shouye{
+		width: 1.5rem;
+		height:1.5625rem;
+		background: url(../img/shouye.png) no-repeat;
+		background-size: 1rem;
+		background-position: 0.2rem 0rem;
+		float: left;
+		text-align: center;
+		line-height: 2.4rem;
+		
+	}
+	#home01 .cart,.buynow{
+		width: 4.25rem;
+		height: 1.5625rem;
+		font-size: 16px;
+		color: white;
+		padding: 0;
+	}
+	#home01 .cart{
+		background: orange;
+		border: none;
+		float: left;
+	}
+	#home01 .buynow{
+		background: orangered;
+		border: none;
+		float: left;
+	}
+	

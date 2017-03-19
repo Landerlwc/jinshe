@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html ng-app="myApp">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<link rel="stylesheet" href="css/home.css" />
+		<link rel="stylesheet" href="lib/swiper-3.3.1.min.css" />
+	</head>
+	<body>
+		<div ui-view>
+			
+		</div>
+		<footer>
+			<div class="home_footer" ng-show="rootIsFooterShow">
+				<ul class="home_footer_ul">
+					<li class="home_footer_home">
+						<a  href="#/home" class="home_footer_a">首页</a>
+					</li>
+					<li class="home_footer_guangchang">
+						<a href="#/guangchang">广场</a>
+					</li>
+					<li class="home_footer_market">
+						<a href="#/market">购物车</a>
+					</li>
+					<li class="home_footer_mine">
+						<a href="#/mine">我的</a>
+					</li>
+				</ul>
+			</div>
+		</footer>
+		<script src="lib/jquery.js"></script>
+		<script src="lib/swiper-3.3.1.min.js"></script>	
+		<script src="lib/flexible.js"></script>
+		<script src="lib/angular.min.js"></script>
+		<script src="lib/angular-ui-router.js"></script>
+		<script src="lib/angular-css.js"></script>
+		<script src="app.js"></script>
+		<script src="service.js"></script>
+		<script src="controller.js"></script>
+	</body>
+</html>
